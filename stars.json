@@ -1,9 +1,9 @@
 [
   {
     "full_name": "donnemartin/interactive-coding-challenges",
-    "stargazers_count": 26457,
+    "stargazers_count": 26469,
     "open_issues_count": 70,
-    "forks_count": 4241
+    "forks_count": 4247
   },
   {
     "full_name": "harblaith7/React-With-TypeScript-Crash-Course",
@@ -19,7 +19,7 @@
   },
   {
     "full_name": "pyscript/pyscript",
-    "stargazers_count": 14795,
+    "stargazers_count": 14807,
     "open_issues_count": 137,
     "forks_count": 1074
   },
@@ -31,9 +31,9 @@
   },
   {
     "full_name": "rahuldkjain/github-profile-readme-generator",
-    "stargazers_count": 13091,
+    "stargazers_count": 13120,
     "open_issues_count": 249,
-    "forks_count": 3399
+    "forks_count": 3411
   },
   {
     "full_name": "Automedon/Codewars",
@@ -49,9 +49,9 @@
   },
   {
     "full_name": "GorvGoyl/Clone-Wars",
-    "stargazers_count": 22385,
-    "open_issues_count": 21,
-    "forks_count": 1902
+    "stargazers_count": 22438,
+    "open_issues_count": 22,
+    "forks_count": 1906
   },
   {
     "full_name": "John-Njau/ClassicoAmorePizzeria",
@@ -76,11 +76,5 @@
     "stargazers_count": 1,
     "open_issues_count": 0,
     "forks_count": 0
-  },
-  {
-    "full_name": "charity-bit/Burger-Palace",
-    "stargazers_count": 2,
-    "open_issues_count": 0,
-    "forks_count": -1
   }
 ]
