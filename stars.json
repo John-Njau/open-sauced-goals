@@ -1,15 +1,21 @@
 [
   {
+    "full_name": "websockets/ws",
+    "stargazers_count": 19267,
+    "open_issues_count": 6,
+    "forks_count": 2272
+  },
+  {
     "full_name": "donnemartin/interactive-coding-challenges",
-    "stargazers_count": 26706,
+    "stargazers_count": 26726,
     "open_issues_count": 70,
-    "forks_count": 4283
+    "forks_count": 4289
   },
   {
     "full_name": "harblaith7/React-With-TypeScript-Crash-Course",
     "stargazers_count": 107,
     "open_issues_count": 2,
-    "forks_count": 91
+    "forks_count": 92
   },
   {
     "full_name": "Abdi-Ali33/Awwwards-Project",
@@ -19,27 +25,27 @@
   },
   {
     "full_name": "pyscript/pyscript",
-    "stargazers_count": 15259,
-    "open_issues_count": 142,
-    "forks_count": 1125
+    "stargazers_count": 15274,
+    "open_issues_count": 147,
+    "forks_count": 1126
   },
   {
     "full_name": "John-Njau/Photo-gallery",
-    "stargazers_count": 1,
+    "stargazers_count": 2,
     "open_issues_count": 0,
     "forks_count": 0
   },
   {
     "full_name": "rahuldkjain/github-profile-readme-generator",
-    "stargazers_count": 13986,
-    "open_issues_count": 261,
-    "forks_count": 3714
+    "stargazers_count": 14054,
+    "open_issues_count": 263,
+    "forks_count": 3732
   },
   {
     "full_name": "Automedon/Codewars",
     "stargazers_count": 217,
     "open_issues_count": 0,
-    "forks_count": 60
+    "forks_count": 59
   },
   {
     "full_name": "John-Njau/linkedin-skill-quizzes",
@@ -49,9 +55,9 @@
   },
   {
     "full_name": "GorvGoyl/Clone-Wars",
-    "stargazers_count": 23185,
-    "open_issues_count": 23,
-    "forks_count": 1973
+    "stargazers_count": 23233,
+    "open_issues_count": 25,
+    "forks_count": 1979
   },
   {
     "full_name": "John-Njau/ClassicoAmorePizzeria",
